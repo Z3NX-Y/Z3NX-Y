@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jonathan
+- 👀 I’m interested in programming and gaming
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me ZENXDotPy@gmail.com
